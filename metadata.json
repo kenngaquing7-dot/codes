@@ -1,0 +1,8 @@
+{
+  "name": "AI Student Assistance",
+  "description": "Comprehensive student learning companion featuring an intelligent AI Tutor for any subject and concept, interactive Practice Quizzes with instant explanations, step-by-step problem solver, and learning history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
